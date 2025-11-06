@@ -6,6 +6,9 @@ An intelligent code review application powered by **Mistral AI** that provides i
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 
+<img width="1462" height="895" alt="Screenshot_20251106_225354" src="https://github.com/user-attachments/assets/12b1518b-892e-4a07-9606-3cc0bed94688" />
+
+
 ---
 
 ## ✨ Features
