@@ -365,7 +365,7 @@ function greetUser(user: User) {
             </a>
             {' • '}
             <a
-              href="https://github.com"
+              href="https://github.com/mrswastik-robot/mix-tral-app/"
             target="_blank"
             rel="noopener noreferrer"
               className="text-orange-500 hover:text-orange-400 hover:underline transition-colors font-medium"
